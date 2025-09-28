@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Krishay Garg — Projects</title>
+  <style>
+    :root{
+      --bg:#0f1724; --card:#0b1220; --muted:#9aa4b2; --accent:#60a5fa; --glass: rgba(255,255,255,0.03);
+      --radius:14px; --gap:20px; --maxw:900px;
+      font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, Arial;
+    }
+    body{margin:0;background:linear-gradient(180deg,var(--bg),#071027);color:#e6eef8;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:40px}
+    .wrap{width:100%;max-width:var(--maxw)}
+    header{text-align:center;margin-bottom:30px}
+    .logo{width:70px;height:70px;border-radius:16px;background:linear-gradient(135deg,var(--accent),#7dd3fc);display:flex;align-items:center;justify-content:center;font-weight:700;color:#012;font-size:20px;margin:0 auto 12px;}
+    h1{margin:0;font-size:24px}
+    p.lead{margin:10px 0 0;color:var(--muted);font-size:14px}
+
+    .grid{display:flex;flex-direction:column;gap:var(--gap)}
+    .card{background:linear-gradient(180deg,var(--card),var(--glass));padding:20px;border-radius:var(--radius);box-shadow:0 6px 24px rgba(2,6,23,0.6);border:1px solid rgba(255,255,255,0.03)}
+    .card h3{margin:0 0 8px;font-size:18px;color:#fff}
+    .card p{margin:0 0 10px;line-height:1.5;color:#d9e2f2;font-size:14px}
+    .meta{font-size:13px;color:var(--muted);margin-bottom:10px}
+    .tech{margin:10px 0}
+    .chip{display:inline-block;margin:3px;padding:6px 10px;border-radius:8px;background:rgba(255,255,255,0.05);color:var(--muted);font-size:12px}
+    .links{display:flex;flex-direction:column;gap:6px;margin-top:10px}
+    a.btn{padding:8px 12px;border-radius:8px;text-decoration:none;font-size:13px;background:rgba(255,255,255,0.04);color:var(--accent);border:1px solid rgba(96,165,250,0.2);}
+
+    footer{margin-top:30px;color:var(--muted);font-size:12px;text-align:center}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="logo">KG</div>
+      <h1>Krishay Garg — Project Portfolio</h1>
+    </header>
+
+    <section class="grid">
+
+
+
+      <article class="card">
+        <h3>VerifyIt — Real-time Multiplayer Media Literacy App</h3>
+        <p class="meta">Software Intern, League of Women Voters</p>
+        <p>Developed <strong>VerifyIt</strong>, a multiplayer app teaching civics, voting rights, and news literacy. Presented the app to millions of listeners nationwide on NPR’s Here and Now program. Created Python scripts to automate campaign finance report generation.</p>
+        <div class="tech">
+          <span class="chip">Python</span><span class="chip">Flask</span><span class="chip">WebSockets</span><span class="chip">SQL</span><span class="chip">nginx</span>
+        </div>
+        <div class="links">
+          <a class="btn" href="https://www.playverifyit.org" target="_blank">Play VerifyIt</a>
+          <a class="btn" href="https://www.wbur.org/hereandnow/2024/09/17/verifyit-game-media-literacy" target="_blank">NPR Presentation</a>
+          <a class="btn" href="https://www.lwvalameda.org/campaign-finance-reports" target="_blank">Campaign Finance Reports</a>
+          <a class="btn" href="https://www.lwvalameda.org/_files/ugd/970884_bdfb2ce0f1d74ed58793dc93feef8156.pdf" target="_blank">Sample Charts (PDF)</a>
+        </div>
+      </article>
+
+      <article class="card">
+        <h3>VoteClear — Adaptive Candidate Recommendation</h3>
+        <p class="meta">Politics + AI</p>
+        <p>Created <strong>VoteClear</strong>, an adaptive recommendation system matching users with political candidates aligned with their values. Uses Retrieval-Augmented Generation (LangChain) to gather candidate data and generate personalized questions. Built with Python Flask backend and JavaScript/HTML/CSS frontend.</p>
+        <div class="tech">
+          <span class="chip">Python</span><span class="chip">LangChain</span><span class="chip">Flask</span><span class="chip">RAG</span><span class="chip">JavaScript</span><span class="chip">CSS/HTML</span>
+        </div>
+        <div class="links">
+          <a class="btn" href="https://voteclear.pythonanywhere.com" target="_blank">Try VoteClear</a>
+        </div>
+      </article>
+      <article class="card">
+        <h3>ROAR — Simulation Racing & Autonomous Vehicle Algorithms (3rd place)</h3>
+        <p class="meta">Collaborated with UC Berkeley professor and graduate researchers to improve autonomous vehicle performance in CARLA simulation.</p>
+        <p>Designed four novel computer vision and PID-based algorithms for autonomous driving. Won 3rd place in the ROAR Simulation Racing Series and authored an article published on the UC Berkeley ROAR website.</p>
+        <div class="tech">
+          <span class="chip">Python</span><span class="chip">CARLA</span><span class="chip">OpenCV</span><span class="chip">NumPy</span><span class="chip">Matplotlib</span>
+        </div>
+        <div class="links">
+          <a class="btn" href="https://roar.berkeley.edu/third-place-solution-in-summer-2023-simulation-racing-series/" target="_blank">UC Berkeley ROAR Article</a>
+          <a class="btn" href="https://youtu.be/aHWh9Sk_avc" target="_blank">Video Demo</a>
+          <a class="btn" href="https://github.com/krishayg/ROARSummer_Krishay_Garg" target="_blank">GitHub Repository</a>
+        </div>
+      </article>
+      <article class="card">
+        <h3>PowerQB — Text-to-Speech Quiz Bowl Tool</h3>
+        <p class="meta">Competition Preparation</p>
+        <p>Developed <strong>PowerQB</strong>, a text-to-speech app used nationwide for Quiz Bowl practice. Supports 2,200+ users and has read over 50,000 questions. Uses Google Text-to-Speech API and SQLite for question sourcing.</p>
+        <div class="tech">
+          <span class="chip">Python</span><span class="chip">Google text-to-speech API</span><span class="chip">SQLite</span>
+        </div>
+        <div class="links">
+          <a class="btn" href="https://www.powerqb.org" target="_blank">Visit PowerQB</a>
+        </div>
+      </article>
+
+      <article class="card">
+        <h3>Machine Learning Projects</h3>
+        <p class="meta">Notebooks & Experiments</p>
+        <p>Implemented projects including Reinforcement Learning on Space Invaders, Random Forests on MNIST, and K-Nearest Neighbors on the Iris dataset.</p>
+        <div class="tech">
+          <span class="chip">Python</span><span class="chip">scikit-learn</span><span class="chip">Reinforcement Learning</span><span class="chip">Keras</span><span class="chip">Matplotlib</span><span class="chip">Numpy</span><span class="chip">Pandas</span>
+        </div>
+        <div class="links">
+          <a class="btn" href="https://github.com/krishayg/Machine-Learning/blob/main/ReinforcementSpaceInvaders.ipynb" target="_blank">Reinforcement Learning (Space Invaders)</a>
+          <a class="btn" href="https://github.com/krishayg/Machine-Learning/blob/main/ForestsMNIST.ipynb" target="_blank">Random Forests (MNIST)</a>
+          <a class="btn" href="https://github.com/krishayg/Machine-Learning/blob/main/Knnirisdataset.ipynb" target="_blank">K-NN (Iris)</a>
+        </div>
+      </article>
+    <article class="card">
+        <h3>SRA — Bayesian Neural Networks</h3>
+        <p class="meta">Summer Research Academies at UCSB.</p>
+        <p>Researched Bayesian Neural Networks. Code will be added here soon.</p>
+        <div class="tech">
+          <span class="chip">PyTorch</span><span class="chip">Bayesian Neural Networks</span><span class="chip">Deep Learning</span><span class="chip">CUDA programming</span>
+        </div>
+      </article>
+
+    </section>
+
+    <footer>
+      Built with HTML/CSS/JS • Last updated September 2025
+    </footer>
+  </div>
+</body>
+</html>
