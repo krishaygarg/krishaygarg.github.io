@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Krishay Garg! 👋</h1>
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=1000&color=6366F1&width=450&height=50&lines=UCLA+Computer+Science;Machine+Learning+Researcher;Software+Engineering+Intern" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=1000&color=6366F1&width=450&height=50&center=true&vCenter=true&lines=UCLA+Computer+Science;Machine+Learning+Researcher;Software+Engineering+Intern" alt="Typing SVG" />
   </p>
   
   <p align="center">
