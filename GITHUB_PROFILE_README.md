@@ -1,9 +1,11 @@
 <div align="center">
   <h1>Hi there, I'm Krishay Garg! 👋</h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=1000&color=6366F1&width=450&height=50&lines=UCLA+Computer+Science+Honors;Machine+Learning+Researcher;Software+Engineering+Intern" alt="Typing SVG" />
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=1000&color=6366F1&width=450&height=50&lines=UCLA+Computer+Science;Machine+Learning+Researcher;Software+Engineering+Intern" alt="Typing SVG" />
+  </p>
   
-  <p>
+  <p align="center">
     <a href="https://linkedin.com/in/krishaygarg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:reachkrishay@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://krishaygarg.github.io"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/></a>
@@ -14,7 +16,7 @@
 
 ### 💫 About Me
 
-I am a **Computer Science Honors student at UCLA** (Class of 2028, GPA: 4.00) specializing in **Machine Learning**, **AI Agents**, **Computer Vision**, and high-performance **Software Systems**. I love building resilient full-stack architectures and shipping production-grade applications that make an impact.
+I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializing in **Machine Learning**, **AI Agents**, **Computer Vision**, and high-performance **Software Systems**. I love building resilient full-stack architectures and shipping production-grade applications that make an impact.
 
 - 🎓 **Education**: B.S. in Computer Science at **UCLA** (Honors program)
 - 🚀 **Currently**: Software Engineering Intern at a **Stealth AI Startup** & Projects Officer at **UCLA ACM AI**
