@@ -1,14 +1,14 @@
-# Hi there, I'm Krishay Garg! 👋
-
 <div align="center">
+  <h1>Hi there, I'm Krishay Garg! 👋</h1>
+  
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=1000&color=6366F1&width=450&height=50&lines=UCLA+Computer+Science+Honors;Machine+Learning+Researcher;Software+Engineering+Intern" alt="Typing SVG" />
+  
+  <p>
+    <a href="https://linkedin.com/in/krishaygarg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:reachkrishay@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://krishaygarg.github.io"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/></a>
+  </p>
 </div>
-
-<p align="center">
-  <a href="https://linkedin.com/in/krishaygarg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:reachkrishay@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://krishaygarg.github.io"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/></a>
-</p>
 
 ---
 
@@ -188,22 +188,3 @@ I am a **Computer Science Honors student at UCLA** (Class of 2028, GPA: 4.00) sp
   * Led hands-on workshops teaching deep learning, fine-tuning, and PyTorch concepts to 50+ students.
 * 🛸 **UCLA Unmanned Aerial Systems (UAS)** | *Computer Vision Team* (Oct 2025 - Present)
   * Built real-time YOLO/OpenCV object tracking pipelines integrated with ROS (Robot Operating System) PID loops on an autonomous drone (50 FPS dynamic tracking).
-
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=krishaygarg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Krishay's GitHub Stats" width="400" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishaygarg&layout=compact&theme=tokyonight&hide_border=true" alt="Krishay's Top Languages" width="300" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishaygarg&theme=tokyonight&hide_border=true" alt="Krishay's GitHub Streak" />
-</div>
