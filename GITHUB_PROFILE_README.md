@@ -23,6 +23,102 @@ I am a **Computer Science Honors student at UCLA** (Class of 2028, GPA: 4.00) sp
 
 ---
 
+### 🌟 Featured Repositories
+
+Here are the repositories I'm most proud of. Click on the project name to view the codebase!
+
+<table>
+  <!-- Row 1: A-Eye & Video Translation -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕶️ <a href="https://github.com/krishaygarg/A-Eye">A-Eye: AI Glasses for Visually Impaired</a></h3>
+      <p><i>Wearable computer vision glasses aiding visually impaired individuals to navigate physical spaces safely.</i></p>
+      <p>
+        <a href="https://github.com/krishaygarg/A-Eye"><img src="https://img.shields.io/badge/Status-1st%20Place%20LA%20Hacks%202026-gold?style=flat-square" alt="Award"/></a>
+        <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=opencv&logoColor=white" alt="YOLOv8"/>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+      </p>
+      <ul>
+        <li>Engineered object detection & obstacle mapping using YOLO and OpenCV.</li>
+        <li>Implemented audio translations using ElevenLabs and OpenAI Whisper.</li>
+        <li>Built mobile streaming client in React Native to forward high-FPS camera streams.</li>
+      </ul>
+      <p align="right"><a href="https://github.com/krishaygarg/A-Eye"><b>Explore Code ➔</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗣️ <a href="https://github.com/krishaygarg/video-translation">Video Translation Pipeline</a></h3>
+      <p><i>An automated pipeline to translate videos into target languages while maintaining precise lip-syncing and speaker voice identity.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Whisper%20ASR-blue?style=flat-square" alt="ASR"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        <img src="https://img.shields.io/badge/U--Net%20%2F%20VAE-lightgrey?style=flat-square" alt="U-Net/VAE"/>
+      </p>
+      <ul>
+        <li>Created syllable-matching duration-alignment using NLP synonym swapping & beam search.</li>
+        <li>Implemented dynamic lip-syncing using audio-conditioned U-Nets to manipulate VAE latent spaces.</li>
+        <li>Integrated zero-shot voice cloning using acoustic encoders.</li>
+      </ul>
+      <p align="right"><a href="https://github.com/krishaygarg/video-translation"><b>Explore Code ➔</b></a></p>
+    </td>
+  </tr>
+
+  <!-- Row 2: Chess-GPT & VerifyIt -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>♟️ <a href="https://github.com/floatingtrees/Chess-GPT">Chess-GPT</a></h3>
+      <p><i>Fine-tuned a Large Language Model to output logical and legal chess movements using reinforcement learning.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Rating-1000+%20Elo-success?style=flat-square" alt="Elo"/>
+        <img src="https://img.shields.io/badge/GRPO-RL-orange?style=flat-square" alt="GRPO"/>
+        <img src="https://img.shields.io/badge/LoRA-Alignment-purple?style=flat-square" alt="LoRA"/>
+      </p>
+      <ul>
+        <li>Utilized Group Relative Policy Optimization (GRPO) and LoRA for resource-efficient alignment.</li>
+        <li>Increased correct move generation by 95% over base models.</li>
+        <li>Achieved reasoning capabilities through strategic positioning.</li>
+      </ul>
+      <p align="right"><a href="https://github.com/floatingtrees/Chess-GPT"><b>Explore Code ➔</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/krishaygarg/VerifyIt-multiplayer">VerifyIt Multiplayer Game</a></h3>
+      <p><i>A full-stack multiplayer civics education web application scaled to over 100,000+ active users.</i></p>
+      <p>
+        <a href="https://github.com/krishaygarg/VerifyIt-multiplayer"><img src="https://img.shields.io/badge/Featured%20On-NPR-red?style=flat-square" alt="NPR"/></a>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/WebSockets-Socket.io-blue?style=flat-square" alt="WebSockets"/>
+      </p>
+      <ul>
+        <li>Built synchronous multiplayer gameplay using WebSockets/Socket.io.</li>
+        <li>Engineered React front-end, Node.js game controller, and Python Flask API.</li>
+        <li>Presented platform on NPR (Here & Now) to millions of listeners.</li>
+      </ul>
+      <p align="right"><a href="https://github.com/krishaygarg/VerifyIt-multiplayer"><b>Explore Code ➔</b></a></p>
+    </td>
+  </tr>
+
+  <!-- Row 3: ROAR Autonomous Driving -->
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🏎️ <a href="https://github.com/krishayg/ROARSummer_Krishay_Garg">UC Berkeley Autonomous Racing (ROAR)</a></h3>
+      <p><i>Computer vision lane detection and PID navigation systems for autonomous vehicles in the CARLA simulator.</i></p>
+      <p>
+        <a href="https://github.com/krishayg/ROARSummer_Krishay_Garg"><img src="https://img.shields.io/badge/Awards-3rd%20Place%20Berkeley%20ROAR-bronze?style=flat-square" alt="Award"/></a>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+        <img src="https://img.shields.io/badge/PID%20Control-blue?style=flat-square" alt="PID"/>
+        <img src="https://img.shields.io/badge/CARLA-Simulation-green?style=flat-square" alt="CARLA"/>
+      </p>
+      <ul>
+        <li>Designed robust lane detection algorithms in OpenCV to handle complex lighting variations.</li>
+        <li>Developed adaptive PID control loops for vehicle stabilization and racing-line navigation.</li>
+        <li>Placed third globally and published research highlights on the Berkeley ROAR site.</li>
+      </ul>
+      <p align="right"><a href="https://github.com/krishayg/ROARSummer_Krishay_Garg"><b>Explore Code ➔</b></a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 💻 Technical Skills
 
 <table>
@@ -77,23 +173,6 @@ I am a **Computer Science Honors student at UCLA** (Class of 2028, GPA: 4.00) sp
 
 * **StemChef** | *Software Engineering Intern* (Mar 2024 - June 2025)
   * Led development of immersive augmented reality (AR) educational applications using Unity, C#, and TypeScript.
-
----
-
-### 🛠️ Featured Open-Source Projects
-
-* **[A-Eye: AI Glasses for Visually Impaired](https://github.com/krishaygarg/A-Eye)** 🕶️
-  * Wearable computer vision glasses using YOLO & OpenCV obstacle mapping and real-time neural speech synthesis (ElevenLabs & Whisper).
-  * *Won 1st Place Track (Voice AI & Synthesis sponsored by ElevenLabs) at LA Hacks 2026.*
-
-* **[Video Translation Pipeline](https://github.com/krishaygarg/video-translation)** 🗣️
-  * Automated translation pipeline utilizing Whisper ASR, dynamic voice-cloning (zero-shot acoustic encoders), and audio-conditioned U-Nets to manipulate VAE latent spaces for precise lip-syncing.
-
-* **[Chess-GPT](https://github.com/floatingtrees/Chess-GPT)** ♟️
-  * Fine-tuned LLMs utilizing **Group Relative Policy Optimization (GRPO)** and **LoRA** for legal/strategic chess move generation, achieving 1000+ Elo rating.
-
-* **[VoteClear](https://voteclear.pythonanywhere.com/)** 🗳️
-  * Adaptive recommendation engine leveraging LangChain RAG to match voters with political candidates based on shared values and dynamic questionnaires.
 
 ---
 
