@@ -18,33 +18,15 @@ I am a **Computer Science Honors student at UCLA** (Class of 2028, GPA: 4.00) sp
 
 - 🎓 **Education**: B.S. in Computer Science at **UCLA** (Honors program)
 - 🚀 **Currently**: Software Engineering Intern at a **Stealth AI Startup** & Projects Officer at **UCLA ACM AI**
-- 🛠️ **Foci**: Generative AI (RAG, LLMs fine-tuning, Diffusion Models), Autonomous Robotics, and Real-time Multiplayer Architectures
-- 🏆 **Awards**: 1st Place Track Winner at **LA Hacks 2026** (Voice AI & Synthesis), 3rd Place at **UC Berkeley Autonomous Racing (ROAR)**
+- 🏆 **Awards**: 1st Place Track Winner at **LA Hacks 2026**, 3rd Place at **UC Berkeley Autonomous Racing**
 
 ---
 
 ### 🌟 Featured Repositories
 
-Here are the repositories I'm most proud of. Click on the project name to view the codebase!
-
 <table>
-  <!-- Row 1: A-Eye & Video Translation -->
+  <!-- Row 1: Video Translation & Chess-GPT -->
   <tr>
-    <td width="50%" valign="top">
-      <h3>🕶️ <a href="https://github.com/krishaygarg/A-Eye">A-Eye: AI Glasses for Visually Impaired</a></h3>
-      <p><i>Wearable computer vision glasses aiding visually impaired individuals to navigate physical spaces safely.</i></p>
-      <p>
-        <a href="https://github.com/krishaygarg/A-Eye"><img src="https://img.shields.io/badge/Status-1st%20Place%20LA%20Hacks%202026-gold?style=flat-square" alt="Award"/></a>
-        <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=opencv&logoColor=white" alt="YOLOv8"/>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
-      </p>
-      <ul>
-        <li>Engineered object detection & obstacle mapping using YOLO and OpenCV.</li>
-        <li>Implemented audio translations using ElevenLabs and OpenAI Whisper.</li>
-        <li>Built mobile streaming client in React Native to forward high-FPS camera streams.</li>
-      </ul>
-      <p align="right"><a href="https://github.com/krishaygarg/A-Eye"><b>Explore Code ➔</b></a></p>
-    </td>
     <td width="50%" valign="top">
       <h3>🗣️ <a href="https://github.com/krishaygarg/video-translation">Video Translation Pipeline</a></h3>
       <p><i>An automated pipeline to translate videos into target languages while maintaining precise lip-syncing and speaker voice identity.</i></p>
@@ -60,10 +42,6 @@ Here are the repositories I'm most proud of. Click on the project name to view t
       </ul>
       <p align="right"><a href="https://github.com/krishaygarg/video-translation"><b>Explore Code ➔</b></a></p>
     </td>
-  </tr>
-
-  <!-- Row 2: Chess-GPT & VerifyIt -->
-  <tr>
     <td width="50%" valign="top">
       <h3>♟️ <a href="https://github.com/floatingtrees/Chess-GPT">Chess-GPT</a></h3>
       <p><i>Fine-tuned a Large Language Model to output logical and legal chess movements using reinforcement learning.</i></p>
@@ -78,6 +56,25 @@ Here are the repositories I'm most proud of. Click on the project name to view t
         <li>Achieved reasoning capabilities through strategic positioning.</li>
       </ul>
       <p align="right"><a href="https://github.com/floatingtrees/Chess-GPT"><b>Explore Code ➔</b></a></p>
+    </td>
+  </tr>
+
+  <!-- Row 2: A-Eye & VerifyIt -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕶️ <a href="https://github.com/krishaygarg/A-Eye">A-Eye: AI Glasses for Visually Impaired</a></h3>
+      <p><i>Wearable computer vision glasses aiding visually impaired individuals to navigate physical spaces safely.</i></p>
+      <p>
+        <a href="https://github.com/krishaygarg/A-Eye"><img src="https://img.shields.io/badge/Status-1st%20Place%20LA%20Hacks%202026-gold?style=flat-square" alt="Award"/></a>
+        <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=opencv&logoColor=white" alt="YOLOv8"/>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+      </p>
+      <ul>
+        <li>Engineered object detection & obstacle mapping using YOLO and OpenCV.</li>
+        <li>Implemented audio translations using ElevenLabs and OpenAI Whisper.</li>
+        <li>Built mobile streaming client in React Native to forward high-FPS camera streams.</li>
+      </ul>
+      <p align="right"><a href="https://github.com/krishaygarg/A-Eye"><b>Explore Code ➔</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🎮 <a href="https://github.com/krishaygarg/VerifyIt-multiplayer">VerifyIt Multiplayer Game</a></h3>
